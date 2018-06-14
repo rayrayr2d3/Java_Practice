@@ -1,2 +1,2 @@
 # Java_Practice
-Solutions to common coding problems using Java
+Homework assignment solutions.
